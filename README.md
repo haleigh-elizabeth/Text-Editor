@@ -5,8 +5,8 @@ be following the provided guide for creating the kilo text editor.
 
 ## Project Objectives
 Students will:
-• Become familiarized with the C Programming Language.
-• Learn how to interact with the Operating System using system calls
+- Become familiarized with the C Programming Language.
+- Learn how to interact with the Operating System using system calls
 
 ## Project Description 
 Students will be creating their own text editor from scratch. Students will follow the guide at the URL
