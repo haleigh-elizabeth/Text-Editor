@@ -14,8 +14,8 @@ provided with this project document, which outlines the steps needed to write th
 be using git for managing files and submitting assignments, using the Github account they provided at the
 beginning of the course.
 The provided document will guide you through the following:
-• Setup
-• Entering raw mode
-• Handling raw input and output
-• Creating a text viewer
-• Creating a text editor
+- Setup
+- Entering raw mode
+- Handling raw input and output
+- Creating a text viewer
+- Creating a text editor
